@@ -9,6 +9,10 @@
     "sass": "gulp",
     "deploy": "npm run build && git commit -am 'new build' && git push heroku master"
   },
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
   "author": "Roshan Lamichhane <csbarofficial@gmail.com>",
   "license": "MIT",
   "devDependencies": {
