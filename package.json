@@ -10,8 +10,8 @@
     "deploy": "npm run build && git commit -am 'new build' && git push heroku master"
   },
   "engines": {
-    "node": ">=7.6.0",
-    "npm": ">=4.1.2"
+    "node": "12.13.0",
+    "npm":  "5.1.0"
   },
   "author": "Roshan Lamichhane <csbarofficial@gmail.com>",
   "license": "MIT",
