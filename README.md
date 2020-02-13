@@ -1,7 +1,7 @@
 # Cumblr
 
 
-A Social Network written with Python using the Flask server framework.
+A Open Source Social Network written with Python using Flask.
 
 # Features
 * mobile friendly
