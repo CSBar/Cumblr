@@ -15,4 +15,4 @@ A Open Source Social Network written with Python using Flask.
 
 ## To-Do 
 
-[ ] Integrate NextJS with Flask
+- [ ] Integrate NextJS with Flask
