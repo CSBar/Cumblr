@@ -11,3 +11,8 @@ A Open Source Social Network written with Python using Flask.
 * user messaging
 * post commenting, favoriting, reblogging
 * time wasting
+
+
+## To-Do 
+
+[ ] Integrate NextJS with Flask
